@@ -1,0 +1,16 @@
+68de4152d4eed925d5f16d3c7540dbbb *DESCRIPTION
+98443f9fd3cf4b538f1c90230e5a4832 *LICENSE
+3a4af4311048257478e866b7c9077d3b *NAMESPACE
+b1d81109c520c0c750e720535e182bb6 *R/cookPasta.R
+9b4d65940128a9f63d67464e5179aaee *R/data.R
+d24016b4617267cfc0f3d543264af0d6 *R/data2.R
+7e0bda177d2d3afbfdef06d557a729cb *R/pastaPlot.R
+8fb29ada99ebf115b4a9d0c2aa6afb45 *data/ecovia_data.rda
+7de95a8f94aaaa21264604a5820ed428 *data/jsp_data.rda
+34bd0fe2435407592dd0d8e0d1eb6eb1 *man/cookPasta.Rd
+a4e0faad7987ef03785d2f0bb1625ce7 *man/ecovia_data.Rd
+f37bace67f068687ce361879363b281c *man/figures/README-glmmTMB_example-1.png
+da253f2a17b664a838fc3e844afd3a44 *man/figures/README-lme4_example-1.png
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+4d88696300532ec464911a6469ccf27a *man/jsp_data.Rd
+3cda847fdc47027d3668ee76ad3117af *man/pastaPlot.Rd
